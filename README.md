@@ -18,4 +18,4 @@ CREATE TABLE todo (
 );
 ```
 
-#### 3. Start server using `node serve.rjs`
+#### 3. Start server using `node server.js`
